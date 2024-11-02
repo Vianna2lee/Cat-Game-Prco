@@ -76,5 +76,3 @@ while True:
         print(f"{name} is overweight and needs to exercise ")
         
     
-
-#end
